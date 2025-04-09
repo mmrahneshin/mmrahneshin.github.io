@@ -55,7 +55,7 @@ education:
   - area: BSc Computer Engineering
     institution: Ferdowsi University of Mashhad (FUM)
     date_start: 2019-09-01
-    date_end: 2025-6-30
+    date_end: 2025-06-30
     summary: |
       GPA: 3.24/4.0
 
