@@ -94,6 +94,8 @@ skills:
         icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
       - name: lua (Familiar)
         icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+---
+
 #   - name: Hobbies
 #     color: '#eeac02'
 #     color_border: '#f0bf23'
