@@ -85,16 +85,15 @@ skills:
   - name: Programming Languages
     items:
       - name: Python
-        icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+        icon: devicons/python
       - name: C/C++ 
-        icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="40" height="40" alt="C++ Logo"/>
+        icon: devicons/cplusplus
       - name: java
-        icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+        icon: devicons/java
       - name: javascript
-        icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+        icon: devicons/javascript
       - name: lua (Familiar)
-        icon: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
----
+        icon: devicons/lua
 
 #   - name: Hobbies
 #     color: '#eeac02'
@@ -124,3 +123,5 @@ skills:
 ## About Me
 
 # Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+
+---
