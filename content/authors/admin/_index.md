@@ -85,15 +85,15 @@ skills:
   - name: Programming Languages
     items:
       - name: Python
-        icon: devicons/python
+        icon: custom/python-original
       - name: C/C++ 
-        icon: devicons/cplusplus
+        icon: custom/cplusplus-original
       - name: java
-        icon: devicons/java
+        icon: custom/java-original
       - name: javascript
-        icon: devicons/javascript
+        icon: custom/javascript-original
       - name: lua (Familiar)
-        icon: devicons/lua
+        icon: custom/lua-original
 
 #   - name: Hobbies
 #     color: '#eeac02'
