@@ -3,15 +3,15 @@
 title: Mohammad Mahdi Rahneshin
 
 # Name pronunciation (optional)
-name_pronunciation: ''
+# name_pronunciation: ''
 
 # Full name (for SEO)
 first_name: Mohammad Mahdi
 last_name: Rahneshin
 
 # Status emoji
-status:
-  icon: 🙂
+# status:
+#   icon: 🙂
 
 # Is this the primary user of the site?
 superuser: true
@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: 'AI Research Engineer | Educational Tool Developer | Data Structures Specialist'
+role: "AI Research Engineer<br>Data Structures Specialist<br>Educational Tool Developer"
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -39,6 +39,8 @@ profiles:
     url: https://www.instagram.com/mmrahneshin
   - icon: brands/github
     url: https://github.com/mmrahneshin
+  - icon: "custom/cv-square"
+    url: uploads/resume.pdf
   # - icon: brands/linkedin
   #   url: https://www.linkedin.com/
   # - icon: academicons/google-scholar
@@ -49,7 +51,7 @@ profiles:
 interests:
   - Deep learning & Machine Learning
   - NLP & Large Language Model
-  - Data Structures and Algorithm Design
+  - Data Structures & Algorithm Design
 
 education:
   - area: BSc Computer Engineering
@@ -72,7 +74,7 @@ work:
     company_url: https://part.institute/
     company_logo: ''
     date_start: 2023-11-01
-    date_end: 2024-09-30
+    date_end: 2025-01-30
     summary: |2-
       Responsibilities include:
       - Led the exercise design team for national and university-level data structure contests
@@ -82,19 +84,11 @@ work:
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
-  - name: Programming Languages
+  - name: Technical Skills
     items:
-      - name: Python
-        icon: custom/python
-      - name: C/C++ 
-        icon: custom/cplusplus
-      - name: java
-        icon: custom/java
-      - name: javascript
-        icon: custom/javascript
-      - name: lua (Familiar)
-        icon: custom/lua
-
+      - name: Programming Languages
+        description: 'C/C++ , Java, Python, Javascript, lua (Familiar)'
+        icon: code-bracket
 #   - name: Hobbies
 #     color: '#eeac02'
 #     color_border: '#f0bf23'
@@ -113,15 +107,18 @@ skills:
 #         icon: camera
 
 # languages:
-#   - name: English
-#     percent: 100
-#   - name: Chinese
-#     percent: 75
-#   - name: Portuguese
-#     percent: 25
+#   - name: "English \n(TOEFL 86: Reading 23, Listening 23, Speaking 20, Writing 20)"
+#     # percent: 72
+#   - name: Persian (Native)
+    # percent: ''
+ 
+---
 
 ## About Me
 
-# Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I’m a BSc Computer Engineering student at Ferdowsi University of Mashhad with a strong focus on AI, machine learning, and data structures. My undergraduate project explores predictive maintenance for VRLA batteries using deep learning.
 
----
+I’ve led national-level programming contests as the Exercise Design Team Lead for Dataleague and developed “Sepehr,” an automatic scoring system for evaluating algorithmic problems. My work also includes projects in transfer learning, seizure classification, and intelligent agents.
+
+As a Teaching Assistant for Data Structures and Algorithm Design over five semesters, I enjoy sharing knowledge and mentoring others. I’m driven by building intelligent systems and creating tools that bridge research and education.
+
