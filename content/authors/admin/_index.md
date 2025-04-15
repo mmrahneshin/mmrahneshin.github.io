@@ -68,18 +68,60 @@ education:
       - Principles of Compiler Design (20/20)
       - Differential Equations (18/20)
 
+  - area: Diploma of Mathematics & Physics
+    institution: Shahid Beheshti High School (NODET)
+    date_start: 2016-09-01
+    date_end: 2019-06-30
+    summary: |
+      GPA: 18.42/20
+
+      Highlights:
+      - Studied under the National Organization for Development of Exceptional Talents (NODET)
+
 work:
-  - position: Exercise Design Team Lead (Data Structures Contest)
-    company_name: Dataleague (Ferdowsi University & National Level)
-    company_url: https://part.institute/
+  - position: Exercise Design Team Lead (National-Level Data Structures Contest)
+    company_name: Dataleague – Ferdowsi University of Mashhad
     company_logo: ''
-    date_start: 2023-11-01
+    date_start: 2024-09-01
     date_end: 2025-01-30
     summary: |2-
       Responsibilities include:
-      - Led the exercise design team for national and university-level data structure contests
-      - Developed and maintained "Sepehr", an automatic scoring system for programming challenges
-      - Designed complex algorithmic exercises and coordinated implementation with faculty and student teams
+      - Managed the exercise design team for a national-level data structures competition
+      - Maintained and extended "Sepehr", the automatic scoring system used in the contest
+      - Oversaw problem development and testing throughout the event
+
+  - position: Exercise Design Team Lead (University-Level Data Structures Contest)
+    company_name: Dataleague – Ferdowsi University of Mashhad
+    company_logo: ''
+    date_start: 2023-11-01
+    date_end: 2024-03-01
+    summary: |2-
+      Responsibilities include:
+      - Designed and implemented exercises (e.g., AVLBinaryTree, IndexedLinearList, BinaryTree)
+      - Led the university contest's technical team and coordinated problem review
+      - Contributed to contest website development and scoring system integration
+
+  - position: Software Developer Intern
+    company_name: Part Research Institute
+    company_logo: ''
+    date_start: 2023-07-01
+    date_end: 2023-09-01
+    summary: |2-
+      Responsibilities include:
+      - Designed and implemented "Sepehr", an automatic scoring system for programming exercises
+      - Focused on evaluating data structure and algorithmic tasks
+      - Worked under the supervision of Dr. Kamaledin Ghiasi-Shirazi
+
+  - position: Front-End Developer Intern
+    company_name: Ramouz Co
+    company_logo: ''
+    date_start: 2022-01-01
+    date_end: 2022-04-30
+    summary: |2-
+      Responsibilities include:
+      - Built and styled a messenger application using Vanilla JavaScript
+      - Collaborated with team members to improve frontend functionality and user experience
+      - Applied modular design and clean coding practices for maintainability
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -89,6 +131,22 @@ skills:
       - name: Programming Languages
         description: 'C/C++ , Java, Python, Javascript, lua (Familiar)'
         icon: code-bracket
+
+      - name: Libraries & Frameworks
+        description: 'PyTorch, Pandas, NumPy, Dask, Django, Django REST Framework, JUnit'
+        icon: custom/framework
+
+      - name: Databases
+        description: 'MySQL, SQLite, PostgreSQL'
+        icon: custom/azuresqldatabase-plain
+
+      - name: Operating Systems
+        description: 'Windows, Linux'
+        icon: computer-desktop
+
+      - name: Soft Skills
+        description: 'Teamwork, Leadership, Project Management, Teaching'
+        icon: users
 #   - name: Hobbies
 #     color: '#eeac02'
 #     color_border: '#f0bf23'
@@ -118,7 +176,7 @@ skills:
 
 I’m a BSc Computer Engineering student at Ferdowsi University of Mashhad with a strong focus on AI, machine learning, and data structures. My undergraduate project explores predictive maintenance for VRLA batteries using deep learning.
 
-I’ve led national-level programming contests as the Exercise Design Team Lead for Dataleague and developed “Sepehr,” an automatic scoring system for evaluating algorithmic problems. My work also includes projects in transfer learning, seizure classification, and intelligent agents.
+I’ve led national-level programming contests as the Exercise Design Team Lead for Dataleague and developed “Sepehr,” an automatic scoring system for evaluating algorithmic problems. My work also includes projects in transfer learning, seizure classification, and game-playing agents.
 
-As a Teaching Assistant for Data Structures and Algorithm Design over five semesters, I enjoy sharing knowledge and mentoring others. I’m driven by building intelligent systems and creating tools that bridge research and education.
+As a Teaching Assistant for Data Structures and Algorithm Design over five semesters, I enjoy sharing knowledge and mentoring others. I’m especially interested in applying AI to practical problems and building tools that support learning and research.
 
