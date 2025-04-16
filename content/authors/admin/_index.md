@@ -20,7 +20,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: "AI Research Engineer<br>Data Structures Specialist<br>Educational Tool Developer"
+role: "BSc Computer Engineering Student"
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
@@ -106,7 +106,7 @@ work:
     summary: |2-
       Responsibilities include:
       - Designed and implemented "Sepehr", an automatic scoring system for programming exercises
-      - Focused on evaluating data structure and algorithmic tasks
+      - Focused on evaluating data structure and algorithm design exercises
       - Worked under the supervision of Dr. Kamaledin Ghiasi-Shirazi
   - position: Front-End Developer Intern
     company_name: Ramouz Co
@@ -118,9 +118,7 @@ work:
       - Built and styled a messenger application using Vanilla JavaScript
       - Collaborated with team members to improve frontend functionality and user experience
       - Applied modular design and clean coding practices for maintainability
-
 # Skills
-# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
