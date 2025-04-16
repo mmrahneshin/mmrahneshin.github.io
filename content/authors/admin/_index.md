@@ -118,7 +118,9 @@ work:
       - Built and styled a messenger application using Vanilla JavaScript
       - Collaborated with team members to improve frontend functionality and user experience
       - Applied modular design and clean coding practices for maintainability
+
 # Skills
+# Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
