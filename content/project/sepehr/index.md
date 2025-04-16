@@ -6,6 +6,8 @@ tags:
   - Data Structures
   - Algorithm Design
   - Education
+share: false
+profile: false
 ---
 
 Sepehr is an automatic scoring system developed for programming exercises, with a particular focus on data structures and algorithm design problems. It was initially created during my internship at Part Research Institute and later used in both university-level and national-level Dataleague programming contests.
@@ -16,4 +18,3 @@ The system automates the evaluation of code submissions, streamlining the proces
 - And the **National Dataleague Contest** (2024–2025).
 
 Sepehr is designed with modularity and scalability in mind, enabling flexible integration into different contest platforms and academic environments.
-<!--more-->

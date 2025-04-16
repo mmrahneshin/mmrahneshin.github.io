@@ -15,7 +15,6 @@ last_name: Rahneshin
 
 # Is this the primary user of the site?
 superuser: true
-
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 
@@ -26,7 +25,6 @@ role: "BSc Computer Engineering Student"
 organizations:
   - name: Ferdowsi University of Mashhad
     url: https://en.um.ac.ir/
-
 # Social network links
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
