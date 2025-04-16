@@ -1,7 +1,7 @@
 ---
 title: Sepehr – Automatic Scoring System
 date: 2023-09-01
-# external_link: https://part.institute/
+external_link: ''
 tags:
   - Data Structures
   - Algorithm Design
