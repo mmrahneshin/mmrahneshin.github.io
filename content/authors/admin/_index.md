@@ -86,6 +86,18 @@ work:
       - Managed the exercise design team for a national-level data structures competition
       - Maintained and extended "Sepehr", the automatic scoring system used in the contest
       - Oversaw problem development and testing throughout the event
+      - Learn more about the contest designed for Persian students <mark>[here](https://part.institute/events/%d9%81%d8%b5%d9%84-%d8%af%d9%88%d9%85-%da%86%d8%a7%d9%84%d8%b4-%d8%af%d8%a7%d9%86%d8%b4%d8%ac%d9%88%db%8c%db%8c-%d8%af%db%8c%d8%aa%d8%a7%d9%84%db%8c%da%af/)</mark>.
+  - position: Teaching Assistant (Team Leader – Programming Exercises)
+    company_name: Ferdowsi University of Mashhad (FUM)
+    company_logo: ''
+    date_start: 2022-02-01
+    date_end: 2024-06-30
+    summary: |2-
+      Focus: Designing, implementing, and reviewing programming exercises; leading the TA team.
+      
+      Courses include:
+      - Data Structures - 5 semesters
+      - Algorithm Design - 5 semesters
   - position: Exercise Design Team Lead (University-Level Data Structures Contest)
     company_name: Dataleague – Ferdowsi University of Mashhad
     company_logo: ''
@@ -95,7 +107,8 @@ work:
       Responsibilities include:
       - Designed and implemented exercises (e.g., AVLBinaryTree, IndexedLinearList, BinaryTree)
       - Led the university contest's technical team and coordinated problem review
-      - Contributed to contest website development and scoring system integration
+      - Contributed to contest <mark>[website](https://dataleague.part.institute/)</mark> development and scoring system integration
+      - Learn more about the contest designed for Persian students <mark>[here](https://part.institute/events/%da%86%d8%a7%d9%84%d8%b4-%d8%af%db%8c%d8%aa%d8%a7%d9%84%db%8c%da%af-%d8%a7%d8%b3%d8%b7%d9%88%d8%b1%d9%87%d9%87%d8%a7%db%8c-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86-%d8%af%d8%a7%d8%af%d9%87/)</mark>.
   - position: Software Developer Intern
     company_name: Part Research Institute
     company_logo: ''
@@ -116,6 +129,8 @@ work:
       - Built and styled a messenger application using Vanilla JavaScript
       - Collaborated with team members to improve frontend functionality and user experience
       - Applied modular design and clean coding practices for maintainability
+  
+
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`

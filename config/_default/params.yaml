@@ -16,14 +16,8 @@ marketing:
     org_name: ''
     description: 'Mohammad Mahdi Rahneshin academic CV.'
     twitter: 'GetResearchDev'
-  analytics:
-    google_analytics: 'mmrahneshin'
-    baidu_tongji: ''
-    plausible: ''
-    fathom: ''
-    pirsch: ''
   verification:
-    google: 'mmrahneshin'
+    google: ''
     baidu: ''
 
 # Site header
