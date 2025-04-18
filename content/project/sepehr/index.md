@@ -15,7 +15,7 @@ Sepehr is an automatic scoring system developed for programming exercises, with 
 
 The system automates the evaluation of code submissions, streamlining the process of grading and feedback for competitive programming and coursework. It has been actively used in:
 - **Data Structures and Algorithm Design courses** at Ferdowsi University of Mashhad,
-- The **FUM-level Dataleague Contest** (2023–2024),
+- The **University-level Dataleague Contest** (2023–2024),
 - And the **National Dataleague Contest** (2024–2025).
 
 Sepehr is designed with modularity and scalability in mind, enabling flexible integration into different contest platforms and academic environments.
