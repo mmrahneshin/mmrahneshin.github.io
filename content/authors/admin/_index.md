@@ -116,8 +116,8 @@ work:
     date_end: 2023-09-01
     summary: |2-
       Responsibilities include:
-      - Designed and implemented "Sepehr", an automatic scoring system for programming exercises
-      - Focused on evaluating data structure and algorithm design exercises
+      - Developed and extended "Sepehr", an automatic scoring system for programming exercises
+      - Focused on enhancing evaluation features for data structure and algorithm design exercises
       - Worked under the supervision of Dr. Kamaledin Ghiasi-Shirazi
   - position: Front-End Developer Intern
     company_name: Ramouz Co
