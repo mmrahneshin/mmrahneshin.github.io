@@ -90,8 +90,8 @@ work:
   - position: Teaching Assistant (Team Leader – Programming Exercises)
     company_name: Ferdowsi University of Mashhad (FUM)
     company_logo: ''
-    date_start: 2022-02-01
-    date_end: 2024-06-30
+    date_start: 2022-09-01
+    date_end: 2025-06-30
     summary: |2-
       Focus: Designing, implementing, and reviewing programming exercises; leading the TA team.
       
