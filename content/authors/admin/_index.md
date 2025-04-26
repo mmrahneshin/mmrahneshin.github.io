@@ -33,14 +33,14 @@ profiles:
     label: E-mail Me
   # - icon: brands/x
   #   url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/mmrahneshin
+  # - icon: brands/instagram
+  #   url: https://www.instagram.com/mmrahneshin
   - icon: brands/github
     url: https://github.com/mmrahneshin
+  - icon: brands/linkedin
+    url: https://www.linkedin.com/in/mohammad-mahdi-rahneshin-718a5b19a?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BW5%2B2ydsTTsSETEoiowEgLg%3D%3D
   - icon: "custom/cv-square"
     url: uploads/resume.pdf
-  # - icon: brands/linkedin
-  #   url: https://www.linkedin.com/
   # - icon: academicons/google-scholar
   #   url: https://scholar.google.com/
   # - icon: academicons/orcid
