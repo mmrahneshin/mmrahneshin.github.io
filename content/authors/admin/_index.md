@@ -109,7 +109,7 @@ work:
       - Led the university contest's technical team and coordinated problem review
       - Contributed to contest <mark>[website](https://dataleague.part.institute/)</mark> development and scoring system integration
       - Learn more about the contest designed for Persian students <mark>[here](https://part.institute/events/%da%86%d8%a7%d9%84%d8%b4-%d8%af%db%8c%d8%aa%d8%a7%d9%84%db%8c%da%af-%d8%a7%d8%b3%d8%b7%d9%88%d8%b1%d9%87%d9%87%d8%a7%db%8c-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86-%d8%af%d8%a7%d8%af%d9%87/)</mark>.
-  - position: Software Developer Intern
+  - position: Software Developer for Educational Tools
     company_name: Part Research Institute
     company_logo: ''
     date_start: 2023-07-01
