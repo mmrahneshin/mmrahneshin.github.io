@@ -13,7 +13,7 @@ sections:
     content:
       title: Selected Projects
       text: Here are a selection of projects that I have worked on over the years.
-      count: 8
+      count: 9
       filters:
         folders:
           - project
