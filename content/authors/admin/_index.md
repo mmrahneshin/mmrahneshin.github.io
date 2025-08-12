@@ -179,7 +179,9 @@ skills:
 
 ## About Me
 
-I’m a BSc Computer Engineering student at Ferdowsi University of Mashhad with a strong focus on AI, machine learning, and data structures. My undergraduate project explores predictive maintenance for VRLA batteries using deep learning.
+I'm a BSc Computer Engineering student at Ferdowsi University of Mashhad with a strong focus on AI, machine learning, and data structures. My undergraduate project is an industry collaboration with [Nian Electronic Company](https://nianelectronic.net/en), where I implemented the approach from the research paper [*"Predictive Maintenance of VRLA Batteries in UPS towards Reliable Data Centers"*](https://www.sciencedirect.com/science/article/pii/S240589632031185X) using a GDBT model to predict VRLA battery deterioration in advance for the company's UPS systems.
+
+
 
 I’ve led national-level programming contests as the Exercise Design Team Lead for Dataleague and developed “Sepehr,” an automatic scoring system for evaluating algorithmic problems. My work also includes projects in transfer learning, seizure classification, and game-playing agents.
 
