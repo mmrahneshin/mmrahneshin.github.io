@@ -83,8 +83,8 @@ work:
     date_end: 2025-01-30
     summary: |2-
       Responsibilities include:
-      - Managed the exercise design team for a national-level data structures competition
-      - Maintained and extended "Sepehr", the automatic scoring system used in the contest
+      - Led the exercise design team for a national-level data structures contest
+      - Kept and expanded "Sepehr", automated scoring system utilized in the contest
       - Oversaw problem development and testing throughout the event
       - Learn more about the contest designed for Persian students <mark>[here](https://part.institute/events/%d9%81%d8%b5%d9%84-%d8%af%d9%88%d9%85-%da%86%d8%a7%d9%84%d8%b4-%d8%af%d8%a7%d9%86%d8%b4%d8%ac%d9%88%db%8c%db%8c-%d8%af%db%8c%d8%aa%d8%a7%d9%84%db%8c%da%af/)</mark>.
   - position: Teaching Assistant (Team Leader – Programming Exercises)
@@ -106,7 +106,7 @@ work:
     summary: |2-
       Responsibilities include:
       - Designed and implemented exercises (e.g., AVLBinaryTree, IndexedLinearList, BinaryTree)
-      - Led the university contest's technical team and coordinated problem review
+      - Led the technical team of the university competition and problem review coordination
       - Contributed to contest <mark>[website](https://dataleague.part.institute/)</mark> development and scoring system integration
       - Learn more about the contest designed for Persian students <mark>[here](https://part.institute/events/%da%86%d8%a7%d9%84%d8%b4-%d8%af%db%8c%d8%aa%d8%a7%d9%84%db%8c%da%af-%d8%a7%d8%b3%d8%b7%d9%88%d8%b1%d9%87%d9%87%d8%a7%db%8c-%d8%b3%d8%a7%d8%ae%d8%aa%d9%85%d8%a7%d9%86-%d8%af%d8%a7%d8%af%d9%87/)</mark>.
   - position: Software Developer for Educational Tools
@@ -127,8 +127,8 @@ work:
     summary: |2-
       Responsibilities include:
       - Built and styled a messenger application using Vanilla JavaScript
-      - Collaborated with team members to improve frontend functionality and user experience
-      - Applied modular design and clean coding practices for maintainability
+      - Collaborated with team members to improve frontend performance and user experience
+      - Utilized modular design and clean coding techniques for maintainability
   
 
 
@@ -141,7 +141,7 @@ skills:
         description: 'C/C++ , Java, Python, Javascript, lua (Familiar)'
         icon: code-bracket
       - name: Libraries & Frameworks
-        description: 'PyTorch, Pandas, NumPy, Dask, Django, Django REST Framework, JUnit'
+        description: 'PyTorch, Scikit learn, Pandas, NumPy, Dask, Django, Django REST Framework, JUnit'
         icon: custom/framework
       - name: Databases
         description: 'MySQL, SQLite, PostgreSQL'
@@ -179,11 +179,8 @@ skills:
 
 ## About Me
 
-I'm a BSc Computer Engineering student at Ferdowsi University of Mashhad with a strong focus on AI, machine learning, and data structures. My undergraduate project is an industry collaboration with [Nian Electronic Company](https://nianelectronic.net/en), where I implemented the approach from the research paper [*"Predictive Maintenance of VRLA Batteries in UPS towards Reliable Data Centers"*](https://www.sciencedirect.com/science/article/pii/S240589632031185X) using a GDBT model to predict VRLA battery deterioration in advance for the company's UPS systems.
+I’m a BSc Computer Engineering student at Ferdowsi University of Mashhad with a strong focus on AI, machine learning, and data structures. My undergraduate project is an industry collaboration with [Nian Electronic Company](https://nianelectronic.net/en), where I implemented the approach from the research paper [*"Predictive Maintenance of VRLA Batteries in UPS towards Reliable Data Centers"*](https://www.sciencedirect.com/science/article/pii/S240589632031185X) using a GDBT model to predict VRLA battery deterioration in advance for the company’s UPS systems.
 
+I've directed national-level programming contests as Dataleague's Exercise Design Team Lead and designed an automatic judging system, "Sepehr," for algorithmic problems. My projects further extend across transfer learning, seizure classification, and playing agents.
 
-
-I’ve led national-level programming contests as the Exercise Design Team Lead for Dataleague and developed “Sepehr,” an automatic scoring system for evaluating algorithmic problems. My work also includes projects in transfer learning, seizure classification, and game-playing agents.
-
-As a Teaching Assistant for Data Structures and Algorithm Design over five semesters, I enjoy sharing knowledge and mentoring others. I’m especially interested in applying AI to practical problems and building tools that support learning and research.
-
+As Teaching Assistant to Data Structures and Algorithm Design for five semesters, I enjoy spreading knowledge and mentoring students. I am especially interested in applying AI to practical uses and building instruments that ease research and learning.
