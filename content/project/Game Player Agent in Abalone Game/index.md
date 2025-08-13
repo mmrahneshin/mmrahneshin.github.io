@@ -11,8 +11,8 @@ profile: false
 reading_time: false
 ---
 
-Built a smart agent for the board game Abalone using Minimax with Alpha-Beta Pruning, implemented in GDScript.
+Developed an intelligent board game player, Abalone, utilizing Minimax with Alpha-Beta Pruning, which was coded in GDScript.
 
-The project was part of the Artificial Intelligence fundamentals course and focused on efficient decision-making and search in adversarial environments.
+This was a project from the Artificial Intelligence fundamentals course and was about optimal search and decision-making in adversarial environments.
 
 You can view the project on GitHub: <mark>[Game Player Agent in Abalone Game](https://github.com/mmrahneshin/AI-Abalone)</mark>.
