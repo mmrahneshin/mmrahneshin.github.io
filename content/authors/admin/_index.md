@@ -19,7 +19,7 @@ superuser: true
 highlight_name: true
 
 # Role/position/tagline
-role: "BSc Computer Engineering Student"
+role: "Computer Engineering Graduate"
 
 # Organizations/Affiliations to display in Biography blox
 organizations:
