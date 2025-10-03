@@ -48,16 +48,16 @@ profiles:
 
 interests:
   - Deep learning & Machine Learning
-  - NLP & Large Language Model
+  - Computational Neuroscience and NeuroAI
   - Data Structures & Algorithm Design
 
 education:
   - area: BSc Computer Engineering
     institution: Ferdowsi University of Mashhad (FUM)
     date_start: 2019-09-01
-    date_end: 2025-06-30
+    date_end: 2025-09-22
     summary: |
-      GPA: 3.24/4.0
+      GPA: 3.44/4.0
 
       Courses included:
       - Artificial Intelligence Fundamentals and Applications (18.5/20)
@@ -179,8 +179,8 @@ skills:
 
 ## About Me
 
-I’m a BSc Computer Engineering student at Ferdowsi University of Mashhad with a strong focus on AI, machine learning, and data structures. My undergraduate project is an industry collaboration with [Nian Electronic Company](https://nianelectronic.net/en), where I implemented the approach from the research paper [*"Predictive Maintenance of VRLA Batteries in UPS towards Reliable Data Centers"*](https://www.sciencedirect.com/science/article/pii/S240589632031185X) using a GDBT model to predict VRLA battery deterioration in advance for the company’s UPS systems.
+I am a recent B.Sc. graduate in Computer Engineering from Ferdowsi University of Mashhad, with a strong foundation in AI, machine learning, and data structures. My bachelor's final project was an industry collaboration with [Nian Electronic Company](https://nianelectronic.net/en), where I implemented the approach from the research paper [*"Predictive Maintenance of VRLA Batteries in UPS towards Reliable Data Centers"*](https://www.sciencedirect.com/science/article/pii/S240589632031185X) using Gradient Boosted Decision Trees to predict VRLA battery degradation in advance for the company's BTS systems.
 
-I've directed national-level programming contests as Dataleague's Exercise Design Team Lead and designed an automatic judging system, "Sepehr," for algorithmic problems. My projects further extend across transfer learning, seizure classification, and playing agents.
+I directed national- and university-level programming contests as Dataleague's Exercise Design Team Lead and developed an automatic judging system, "Sepehr," for algorithmic problems. My projects extend across transfer learning for age prediction, EEG-based seizure signal classification, and AI agents for games.
 
-As Teaching Assistant to Data Structures and Algorithm Design for five semesters, I enjoy spreading knowledge and mentoring students. I am especially interested in applying AI to practical uses and building instruments that ease research and learning.
+As a Teaching Assistant for Data Structures and Algorithm Design over five semesters, I enjoyed mentoring students and fostering their growth. I am particularly passionate about NeuroAI, exploring how biological brain mechanisms can inspire more efficient AI architectures, and building tools that advance research and learning at the intersection of neuroscience and AI.
