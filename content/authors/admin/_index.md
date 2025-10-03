@@ -48,7 +48,8 @@ profiles:
 
 interests:
   - Deep learning & Machine Learning
-  - Computational Neuroscience and NeuroAI
+  - NeuroAI
+  - Computational Neuroscience
   - Data Structures & Algorithm Design
 
 education:
